@@ -1,0 +1,4 @@
+img/*.jpeg
+img/*.png
+img/*.svg
+img/text.txt
